@@ -11,7 +11,7 @@ export default function App() {
                 <View style={styles.container}>
                     <Text style={styles.title}> FindHere </Text>
                     <Image style={styles.images} source={require('../assets/images/logo.png')} />
-                    <Text style={styles.title}> FindHere é a sua ferramenta perfeita para encontrar qualquer lugar com rapidez e precisão. Com mapas detalhados, navegação em tempo real e funcionalidades avançadas de busca. O FindHere torna a exploração do mundo mais simples e ascessível para todos. Encontre o que você precisa, onde quer que esteja!</Text>
+                    <Text style={styles.title}> FindHere é a sua ferramenta perjkjkjkjkjfeita para encontrar qualquer lugar com rapidez e precisão. Com mapas detalhados, navegação em tempo real e funcionalidades avançadas de busca. O FindHere torna a exploração do mundo mais simples e ascessível para todos. Encontre o que você precisa, onde quer que esteja!</Text>
                     <TouchableOpacity style={styles.button} onPress={() => setPage('sobre')}> 
                         <Text style={styles.buttonText }> Obter localização real </Text>
                     </TouchableOpacity>
